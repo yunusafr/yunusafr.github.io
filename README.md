@@ -12,17 +12,6 @@ My journey started from graphic design and multimedia production, then evolved i
 
 ---
 
-## Personal Information
-
-| Information | Details |
-|---|---|
-| Full Name | Mochamad Yunus Afriza |
-| Username | @yunusafr |
-| Born | May 15, 2003 |
-| Location | Blitar, East Java, Indonesia |
-
----
-
 ## Features
 
 - Responsive modern portfolio design
